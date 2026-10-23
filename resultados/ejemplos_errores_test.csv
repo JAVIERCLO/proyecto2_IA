@@ -1,0 +1,20 @@
+﻿indice_original,review,y_real,y_pred,modelo,acierto,tipo_resultado,etiqueta_real,prediccion
+54304,"So, I feel this game have too much hype. I sat through the entire session expecting it to get better but it turns out that there is no moment of glory nor any engaging story. :(",0,1,SVM lineal,False,Falso positivo (negativa → positiva),Negativa,Positiva
+50766,I mean...the ending?  So much good work undone.,0,1,SVM lineal,False,Falso positivo (negativa → positiva),Negativa,Positiva
+44681,Forced myself to finish this with one playthrough 5 hours uninstall.,0,1,SVM lineal,False,Falso positivo (negativa → positiva),Negativa,Positiva
+367,great great characters but the story so underwhelming and game is so clunky at times,0,1,SVM lineal,False,Falso positivo (negativa → positiva),Negativa,Positiva
+11878,Ending doesn't hit the same when you play the game like a schizoid (or if you are one like me)[spoiler]and are able to see her trying to manipulate you from the beginning.[/spoiler],0,1,SVM lineal,False,Falso positivo (negativa → positiva),Negativa,Positiva
+19245,Beautiful but the ending left me feeling unfulfilled and confused,1,0,SVM lineal,False,Falso negativo (positiva → negativa),Positiva,Negativa
+2180,Buggy physics ruined the moment a couple times but otherwise great game,1,0,SVM lineal,False,Falso negativo (positiva → negativa),Positiva,Negativa
+22681,"Not my usual kind of game but for £4 on sale I was very satisfied with this purchase.  The art style was gorgeous and although a short game, the relationship built up between the protagonist and deuteragonist definitely sparked up a mixture of emotions ranging from happy and excited to sad and even awkward. 
+
+My biggest gripe with this game was that the ending was very anti-climatic.  I feel like even given a couple more hours of gameplay the dev's could have thought up of something to give a more satisfactory ending.  Just when the game starts getting really interesting..  It ends..",1,0,SVM lineal,False,Falso negativo (positiva → negativa),Positiva,Negativa
+29734,"Beutiful game, sadly too short.
+
++ Graphics
++ Map
++ Story
+- Too short :C
+
+9/10",1,0,SVM lineal,False,Falso negativo (positiva → negativa),Positiva,Negativa
+10536,"for the first game, D is stand for Delilah. but at the end of the game, D is stand for Disappointment.",1,0,SVM lineal,False,Falso negativo (positiva → negativa),Positiva,Negativa
